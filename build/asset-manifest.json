@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.905d4c1b.css",
+    "main.js": "/static/js/main.0e800c49.js",
+    "react-monaco-editor.js": "/static/js/react-monaco-editor.37e576aa.chunk.js",
+    "index.html": "/index.html",
+    "main.905d4c1b.css.map": "/static/css/main.905d4c1b.css.map",
+    "main.0e800c49.js.map": "/static/js/main.0e800c49.js.map",
+    "react-monaco-editor.37e576aa.chunk.js.map": "/static/js/react-monaco-editor.37e576aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905d4c1b.css",
+    "static/js/main.0e800c49.js"
+  ]
+}
