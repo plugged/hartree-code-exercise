@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hartree-code-exercise/static/css/main.905d4c1b.css",
+    "main.js": "/hartree-code-exercise/static/js/main.26ba9894.js",
+    "react-monaco-editor.js": "/hartree-code-exercise/static/js/react-monaco-editor.37e576aa.chunk.js",
+    "index.html": "/hartree-code-exercise/index.html",
+    "main.905d4c1b.css.map": "/hartree-code-exercise/static/css/main.905d4c1b.css.map",
+    "main.26ba9894.js.map": "/hartree-code-exercise/static/js/main.26ba9894.js.map",
+    "react-monaco-editor.37e576aa.chunk.js.map": "/hartree-code-exercise/static/js/react-monaco-editor.37e576aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905d4c1b.css",
+    "static/js/main.26ba9894.js"
+  ]
+}
