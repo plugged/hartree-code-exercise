@@ -1,0 +1,11 @@
+.tableContainer button {
+    color: inherit;
+}
+
+.tableContainer img {
+    max-width: 2rem;
+    max-height: 2rem;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
